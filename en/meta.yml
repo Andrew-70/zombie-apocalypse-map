@@ -1,6 +1,6 @@
-title: Mapa de supervivencia del apocalipsis zombi
+title: Zombie apocalypse survival map
 hero_image: images/banner.png
-description: Crea y navega por un mapa GPS para ayudarte a sobrevivir al apocalipsis zombi
+description: Create and navigate a GPS map to help you survive the zombie apocalypse
 theme: green # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: true
@@ -15,13 +15,13 @@ site_areas: projects
 version: 4
 last_tested: 2017-09-01
 steps: 
-- title: Introducción
-- title: ¿Qué necesitarás?
-- title: Crea una página web
-- title: Obtenga una clave de API de Google Maps
-- title: Mostrar el mapa
-- title: Coloca un marcador
-- title: Marque donde hace clic
-- title: Elige tu icono
-- title: Registre sus ubicaciones
-- title: "Desafío: prepárate para los zombis"
+- title: Introduction
+- title: What you will need
+- title: Create a web page
+- title: Obtain a Google Maps API key
+- title: Display the map
+- title: Place a marker
+- title: Mark where you click
+- title: Choose your icon
+- title: Log your locations
+- title: "Challenge: prepare for zombies"
